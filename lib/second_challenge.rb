@@ -1,6 +1,6 @@
 def second_challenge
   epic_tragedy = {
-    :montagne => {
+    :montague => {
       :patriarch => {},
       :matriarch => {},
       :hero => {},
